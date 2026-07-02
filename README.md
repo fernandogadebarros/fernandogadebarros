@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/<seu-usuario>/">
+  <a href="[https://www.linkedin.com/in](https://www.linkedin.com/in/fernandogabarros/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:fernandogabarros@gmail.com">
@@ -89,12 +89,6 @@ const fernando = {
 | 💰 **Financy** | Finanças pessoais full-stack com dashboard e JWT · *Full-stack personal finance with dashboard & JWT* | React · Node · GraphQL · Prisma · Docker | [Code](https://github.com/fernandogadebarros/financy) · [Demo](<adicionar>) |
 | 🔗 **Brev.ly** | Encurtador de URLs com contador e export CSV · *URL shortener with click counter & CSV export* | React · Fastify · Drizzle · PostgreSQL | [Code](https://github.com/fernandogadebarros/brevly) · [Demo](<adicionar>) |
 | ☕ **Coffee Delivery** | E-commerce de cafés com carrinho e checkout · *Coffee e-commerce with cart & checkout* | React · TypeScript · Vite | [Code](https://github.com/fernandogadebarros/coffe-delivery) · [Demo](<adicionar>) |
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fernandogadebarros&theme=dracula&hide_border=true" alt="GitHub Streak">
-</p>
 
 ---
 
